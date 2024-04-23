@@ -5,3 +5,7 @@ Introducing the amazing KittyBot, designed to send you the most heartwarming cat
 ## Getting Started
 
 Open your telegram, type `@magicKittyBot` and hit start.
+
+## Warning
+
+Currently unavailable in production 🚫.
